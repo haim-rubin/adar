@@ -15,7 +15,7 @@ const run = async () => {
 
     console.log(res)
     console.log('after')
-
+console.log('Another message')
 }
 
 run()
