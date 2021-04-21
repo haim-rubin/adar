@@ -9,7 +9,7 @@ const sleep = (seconds, value) => {
 
 const run = async () => {
 
-    console.log('before')
+    console.log('before-1')
 
     const res = await sleep(2, 1000)
 
