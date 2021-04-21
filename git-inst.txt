@@ -1,0 +1,11 @@
+
+
+1. Create repository in github
+2. git clone repositry-url.git
+3. Create nestjs initial app
+4. Copy the files from in nestjs into the folder of git that we'd created previous
+5. Git process:
+    - Do any changes like change the code/add files/delete files
+    - Add the all or specific file with the following command: git add fileName / (--all / .)
+    - Commit changes: git commit -m "<Add relevant message>"
+    - Push your changes: git push / for the first time its: git push --set-upstream origin <branch name> 
