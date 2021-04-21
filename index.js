@@ -11,7 +11,7 @@ const run = async () => {
 
     console.log('before')
 
-    const res = await sleep(2, 100)
+    const res = await sleep(2, 1000)
 
     console.log(res)
     console.log('after')
